@@ -1,0 +1,9 @@
+// this file was generated from Squares.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=4 hikey=127 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=39108 loop_end=68825 sample=../Audio/Squares/(2016629 204312)/aj-sqr 24-33 1-21-J30H.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=26092 loop_end=61213 sample=../Audio/Squares/(2016629 204312)/aj-sqr 24-33 22-42-X1DD.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=29147 loop_end=64268 sample=../Audio/Squares/(2016629 204312)/aj-sqr 24-33 43-64-0FK2.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=22036 loop_end=51753 sample=../Audio/Squares/(2016629 204312)/aj-sqr 24-33 65-85-YM9M.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=36719 loop_end=66436 sample=../Audio/Squares/(2016629 204312)/aj-sqr 24-33 86-106-8QNV.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=23905 loop_end=56324 sample=../Audio/Squares/(2016629 204312)/aj-sqr 24-33 107-127-81N3.wav

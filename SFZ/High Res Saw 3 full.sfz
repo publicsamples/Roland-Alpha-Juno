@@ -1,0 +1,14 @@
+// this file was generated from High Res Saw 3 full.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=30 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=33953 loop_end=63670 sample=../Audio/High Res Saw 3/(201677 12734)/ajck 24-30 120-127-72IT.wav
+<group>lokey=31 hikey=45 pitch_keycenter=39 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=32775 loop_end=64511 sample=../Audio/High Res Saw 3/(201677 12734)/ajck 31-45 120-127-XCWU.wav
+<group>lokey=46 hikey=60 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=42001 loop_end=62008 sample=../Audio/High Res Saw 3/(201677 12734)/ajck 46-60 120-127-5LIF.wav
+<group>lokey=61 hikey=75 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39161 loop_end=53376 sample=../Audio/High Res Saw 3/(201677 12734)/ajck 61-75 120-127-Q9AW.wav
+<group>lokey=76 hikey=90 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25202 loop_end=38669 sample=../Audio/High Res Saw 3/(201677 12734)/ajck 76-90 120-127-AXTZ.wav
+<group>lokey=91 hikey=96 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=38850 loop_end=53116 sample=../Audio/High Res Saw 3/(201677 12734)/ajck 91-96 120-127-06PE.wav

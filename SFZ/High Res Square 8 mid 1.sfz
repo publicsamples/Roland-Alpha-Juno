@@ -1,0 +1,14 @@
+// this file was generated from High Res Square 8 mid 1.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=30 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=29300 loop_end=67122 sample=../Audio/High Res Square 8/(201677 2574)/ajck 24-30 57-64-XW0Z.wav
+<group>lokey=31 hikey=45 pitch_keycenter=39 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=28223 loop_end=59959 sample=../Audio/High Res Square 8/(201677 2574)/ajck 31-45 57-64-2OL7.wav
+<group>lokey=46 hikey=60 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=40321 loop_end=67950 sample=../Audio/High Res Square 8/(201677 2574)/ajck 46-60 57-64-7Z0P.wav
+<group>lokey=61 hikey=75 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=35202 loop_end=52821 sample=../Audio/High Res Square 8/(201677 2574)/ajck 61-75 57-64-XL8L.wav
+<group>lokey=76 hikey=90 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=45998 loop_end=70744 sample=../Audio/High Res Square 8/(201677 2574)/ajck 76-90 57-64-GNDM.wav
+<group>lokey=91 hikey=96 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=41488 loop_end=69263 sample=../Audio/High Res Square 8/(201677 2574)/ajck 91-96 57-64-QSGB.wav

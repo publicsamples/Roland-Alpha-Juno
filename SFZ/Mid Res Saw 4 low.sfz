@@ -1,0 +1,14 @@
+// this file was generated from Mid Res Saw 4 low.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=30 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=18621 loop_end=29429 sample=../Audio/Mid Res Saw 4/(201677 132859)/ajck 24-30 25-32-8SEZ.wav
+<group>lokey=31 hikey=45 pitch_keycenter=39 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17322 loop_end=30922 sample=../Audio/Mid Res Saw 4/(201677 132859)/ajck 31-45 25-32-XG7S.wav
+<group>lokey=46 hikey=60 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=18572 loop_end=30007 sample=../Audio/Mid Res Saw 4/(201677 132859)/ajck 46-60 25-32-J9PX.wav
+<group>lokey=61 hikey=75 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=30513 loop_end=58650 sample=../Audio/Mid Res Saw 4/(201677 132859)/ajck 61-75 25-32-W1AO.wav
+<group>lokey=76 hikey=90 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=36940 loop_end=59011 sample=../Audio/Mid Res Saw 4/(201677 132859)/ajck 76-90 25-32-96YR.wav
+<group>lokey=91 hikey=96 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=18658 loop_end=32405 sample=../Audio/Mid Res Saw 4/(201677 132859)/ajck 91-96 25-32-6S2R.wav

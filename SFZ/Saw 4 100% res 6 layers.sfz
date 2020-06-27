@@ -1,0 +1,9 @@
+// this file was generated from Saw 4 100% res 6 layers.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=127 pitch_keycenter=16 pitch_keytrack=1
+	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 12-19 12-21-AH0T.wav
+	<region> lovel=021 hivel=042 amp_velcurve_042=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 12-19 33-42-TI1N.wav
+	<region> lovel=042 hivel=064 amp_velcurve_064=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 12-19 54-64-JHCG.wav
+	<region> lovel=063 hivel=085 amp_velcurve_085=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 12-19 75-85-XTT2.wav
+	<region> lovel=084 hivel=106 amp_velcurve_106=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 12-19 96-106-R1FG.wav
+	<region> lovel=105 hivel=127 amp_velcurve_127=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 12-19 117-127-1P55.wav

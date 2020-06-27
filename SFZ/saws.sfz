@@ -1,0 +1,9 @@
+// this file was generated from saws.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=127 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=021 amp_velcurve_021=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=21347 sample=../AJCKAudio/saws/(2016629 203728)/aj-saw 24-33 1-21-C5EZ.wav
+	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=21347 sample=../AJCKAudio/saws/(2016629 203728)/aj-saw 24-33 22-42-PLRE.wav
+	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=21347 sample=../AJCKAudio/saws/(2016629 203728)/aj-saw 24-33 43-64-FMQZ.wav
+	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=21347 sample=../AJCKAudio/saws/(2016629 203728)/aj-saw 24-33 65-85-9MAU.wav
+	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=21347 sample=../AJCKAudio/saws/(2016629 203728)/aj-saw 24-33 86-106-4PFE.wav
+	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=21347 sample=../AJCKAudio/saws/(2016629 203728)/aj-saw 24-33 107-127-5C1O.wav

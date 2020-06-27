@@ -1,0 +1,14 @@
+// this file was generated from High Res Misc 4 Mid 1.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=30 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=31779 loop_end=61496 sample=../Audio/High Res Misc 4/(201677 34017)/ajck 24-30 57-64-KW17.wav
+<group>lokey=31 hikey=45 pitch_keycenter=39 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=33964 loop_end=64566 sample=../Audio/High Res Misc 4/(201677 34017)/ajck 31-45 57-64-NTS8.wav
+<group>lokey=46 hikey=60 pitch_keycenter=54 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=46638 loop_end=67598 sample=../Audio/High Res Misc 4/(201677 34017)/ajck 46-60 57-64-9UN2.wav
+<group>lokey=61 hikey=75 pitch_keycenter=69 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25887 loop_end=40102 sample=../Audio/High Res Misc 4/(201677 34017)/ajck 61-75 57-64-XSNZ.wav
+<group>lokey=76 hikey=90 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52427 loop_end=70271 sample=../Audio/High Res Misc 4/(201677 34017)/ajck 76-90 57-64-7HIL.wav
+<group>lokey=91 hikey=96 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=49879 loop_end=67979 sample=../Audio/High Res Misc 4/(201677 34017)/ajck 91-96 57-64-P3M5.wav

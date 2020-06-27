@@ -1,0 +1,15 @@
+// this file was generated from Saw 2 75% res.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=127 pitch_keycenter=7 pitch_keytrack=1
+	<region> lovel=001 hivel=011 amp_velcurve_011=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 1-11-V2XC.wav
+	<region> lovel=012 hivel=021 amp_velcurve_021=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 12-21-B06Z.wav
+	<region> lovel=022 hivel=032 amp_velcurve_032=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 22-32-L007.wav
+	<region> lovel=033 hivel=042 amp_velcurve_042=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 33-42-55ZE.wav
+	<region> lovel=043 hivel=053 amp_velcurve_053=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 43-53-A974.wav
+	<region> lovel=054 hivel=064 amp_velcurve_064=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 54-64-JXTZ.wav
+	<region> lovel=065 hivel=074 amp_velcurve_074=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 65-74-FBNN.wav
+	<region> lovel=075 hivel=085 amp_velcurve_085=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 75-85-HKPV.wav
+	<region> lovel=086 hivel=095 amp_velcurve_095=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 86-95-LQKE.wav
+	<region> lovel=096 hivel=106 amp_velcurve_106=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 96-106-GSHM.wav
+	<region> lovel=107 hivel=116 amp_velcurve_116=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 107-116-M94U.wav
+	<region> lovel=117 hivel=127 amp_velcurve_127=1 offset=20000 loop_mode=loop_sustain loop_start=20000 loop_end=25391 sample=../Audio/all 75% res/(2016629 215826)/aj-sqr 3-9 117-127-JWHE.wav

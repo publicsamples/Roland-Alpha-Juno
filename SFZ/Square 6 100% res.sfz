@@ -1,0 +1,15 @@
+// this file was generated from Square 6 100% res.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=001 hivel=011 amp_velcurve_011=1 loop_mode=loop_sustain loop_start=13274 loop_end=24922 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 1-11-U1JU.wav
+	<region> lovel=012 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=12748 loop_end=26209 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 12-21-YV1B.wav
+	<region> lovel=022 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=12528 loop_end=25323 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 22-32-3QHP.wav
+	<region> lovel=033 hivel=042 amp_velcurve_042=1 loop_mode=loop_sustain loop_start=11678 loop_end=26492 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 33-42-K140.wav
+	<region> lovel=043 hivel=053 amp_velcurve_053=1 loop_mode=loop_sustain loop_start=52853 loop_end=66993 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 43-53-MS7Y.wav
+	<region> lovel=054 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=35626 loop_end=67948 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 54-64-AWJI.wav
+	<region> lovel=065 hivel=074 amp_velcurve_074=1 loop_mode=loop_sustain loop_start=57312 loop_end=70779 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 65-74-7UTC.wav
+	<region> lovel=075 hivel=085 amp_velcurve_085=1 loop_mode=loop_sustain loop_start=18858 loop_end=72729 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 75-85-JQFM.wav
+	<region> lovel=086 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=18614 loop_end=39825 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 86-95-PJTU.wav
+	<region> lovel=096 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=31019 loop_end=72095 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 96-106-9HPS.wav
+	<region> lovel=107 hivel=116 amp_velcurve_116=1 loop_mode=loop_sustain loop_start=54302 loop_end=72483 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 107-116-SQ2M.wav
+	<region> lovel=117 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=27927 loop_end=71697 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 117-127-V216.wav

@@ -1,0 +1,104 @@
+// this file was generated from No Res Square 7.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=24 hikey=32 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=642 end=179163 loop_mode=loop_sustain loop_start=27829 loop_end=44503 sample=../Audio/No Res Square 7/ajck 24-32 1-8-FMB8.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=404 end=205670 loop_mode=loop_sustain loop_start=27883 loop_end=45307 sample=../Audio/No Res Square 7/ajck 24-32 9-16-4IHH.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=597 end=216731 loop_mode=loop_sustain loop_start=28076 loop_end=45778 sample=../Audio/No Res Square 7/ajck 24-32 17-24-MTTE.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=662 end=220384 loop_mode=loop_sustain loop_start=28064 loop_end=45687 sample=../Audio/No Res Square 7/ajck 24-32 25-32-22SW.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=698 end=222556 loop_mode=loop_sustain loop_start=26128 loop_end=47740 sample=../Audio/No Res Square 7/ajck 24-32 33-40-S2CV.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=661 end=221534 loop_mode=loop_sustain loop_start=27518 loop_end=45100 sample=../Audio/No Res Square 7/ajck 24-32 41-48-8YBZ.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=612 loop_mode=loop_sustain loop_start=43841 loop_end=97873 sample=../Audio/No Res Square 7/ajck 24-32 49-56-MBAF.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=647 end=221182 loop_mode=loop_sustain loop_start=48576 loop_end=108012 sample=../Audio/No Res Square 7/ajck 24-32 57-64-J5VH.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=685 loop_mode=loop_sustain loop_start=45541 loop_end=104977 sample=../Audio/No Res Square 7/ajck 24-32 65-71-07VN.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=425 end=219917 loop_mode=loop_sustain loop_start=40969 loop_end=100405 sample=../Audio/No Res Square 7/ajck 24-32 72-79-U5XF.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=396 loop_mode=loop_sustain loop_start=47219 loop_end=112058 sample=../Audio/No Res Square 7/ajck 24-32 80-87-UKNK.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=541 loop_mode=loop_sustain loop_start=36978 loop_end=85607 sample=../Audio/No Res Square 7/ajck 24-32 88-95-S3XJ.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=364 end=221016 loop_mode=loop_sustain loop_start=50940 loop_end=115779 sample=../Audio/No Res Square 7/ajck 24-32 96-103-IU8Y.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=610 end=221695 loop_mode=loop_sustain loop_start=43263 loop_end=108102 sample=../Audio/No Res Square 7/ajck 24-32 104-111-SM8G.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=506 end=221209 loop_mode=loop_sustain loop_start=43093 loop_end=107932 sample=../Audio/No Res Square 7/ajck 24-32 112-119-4U11.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=563 end=221732 loop_mode=loop_sustain loop_start=49094 loop_end=113933 sample=../Audio/No Res Square 7/ajck 24-32 120-127-009M.wav
+<group>lokey=33 hikey=50 pitch_keycenter=42 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=616 loop_mode=loop_sustain loop_start=28063 loop_end=45220 sample=../Audio/No Res Square 7/ajck 33-50 1-8-EXXB.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=613 loop_mode=loop_sustain loop_start=27864 loop_end=46924 sample=../Audio/No Res Square 7/ajck 33-50 9-16-JAGU.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=660 loop_mode=loop_sustain loop_start=27425 loop_end=48385 sample=../Audio/No Res Square 7/ajck 33-50 17-24-JWMP.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=549 loop_mode=loop_sustain loop_start=26082 loop_end=45135 sample=../Audio/No Res Square 7/ajck 33-50 25-32-CQZI.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=558 end=221073 loop_mode=loop_sustain loop_start=26509 loop_end=45563 sample=../Audio/No Res Square 7/ajck 33-50 33-40-C52E.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=612 end=221839 loop_mode=loop_sustain loop_start=28020 loop_end=45169 sample=../Audio/No Res Square 7/ajck 33-50 41-48-T0T2.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=432 end=221911 loop_mode=loop_sustain loop_start=30720 loop_end=103129 sample=../Audio/No Res Square 7/ajck 33-50 49-56-60S2.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=561 loop_mode=loop_sustain loop_start=30824 loop_end=101327 sample=../Audio/No Res Square 7/ajck 33-50 57-64-HQ45.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=632 end=220388 loop_mode=loop_sustain loop_start=37171 loop_end=113391 sample=../Audio/No Res Square 7/ajck 33-50 65-71-0PWZ.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=611 end=221398 loop_mode=loop_sustain loop_start=43123 loop_end=115532 sample=../Audio/No Res Square 7/ajck 33-50 72-79-5DOA.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=496 loop_mode=loop_sustain loop_start=32128 loop_end=93104 sample=../Audio/No Res Square 7/ajck 33-50 80-87-ODL2.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=681 end=222375 loop_mode=loop_sustain loop_start=39226 loop_end=115446 sample=../Audio/No Res Square 7/ajck 33-50 88-95-G4OU.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=728 end=221366 loop_mode=loop_sustain loop_start=32076 loop_end=96863 sample=../Audio/No Res Square 7/ajck 33-50 96-103-RHTO.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=468 end=217683 loop_mode=loop_sustain loop_start=36020 loop_end=112240 sample=../Audio/No Res Square 7/ajck 33-50 104-111-BFDA.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=577 end=221826 loop_mode=loop_sustain loop_start=32997 loop_end=109217 sample=../Audio/No Res Square 7/ajck 33-50 112-119-V6V6.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=587 end=221442 loop_mode=loop_sustain loop_start=43284 loop_end=119504 sample=../Audio/No Res Square 7/ajck 33-50 120-127-C1E1.wav
+<group>lokey=51 hikey=68 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=740 end=135633 loop_mode=loop_sustain loop_start=30775 loop_end=51698 sample=../Audio/No Res Square 7/ajck 51-68 1-8-122Z.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=699 loop_mode=loop_sustain loop_start=56190 loop_end=110056 sample=../Audio/No Res Square 7/ajck 51-68 9-16-29S9.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=689 loop_mode=loop_sustain loop_start=26735 loop_end=48280 sample=../Audio/No Res Square 7/ajck 51-68 17-24-T2CL.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=434 loop_mode=loop_sustain loop_start=26650 loop_end=46849 sample=../Audio/No Res Square 7/ajck 51-68 25-32-C7KF.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=698 loop_mode=loop_sustain loop_start=26439 loop_end=45965 sample=../Audio/No Res Square 7/ajck 51-68 33-40-HYWI.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=464 end=207147 loop_mode=loop_sustain loop_start=34914 loop_end=96187 sample=../Audio/No Res Square 7/ajck 51-68 41-48-XB7Q.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=627 end=215193 loop_mode=loop_sustain loop_start=41369 loop_end=68975 sample=../Audio/No Res Square 7/ajck 51-68 49-56-C61Q.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=648 end=221860 loop_mode=loop_sustain loop_start=36965 loop_end=98238 sample=../Audio/No Res Square 7/ajck 51-68 57-64-AYNN.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=725 end=222013 loop_mode=loop_sustain loop_start=86161 loop_end=109727 sample=../Audio/No Res Square 7/ajck 51-68 65-71-L0NX.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=695 end=220593 loop_mode=loop_sustain loop_start=71080 loop_end=96666 sample=../Audio/No Res Square 7/ajck 51-68 72-79-RCBP.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=641 end=221676 loop_mode=loop_sustain loop_start=48854 loop_end=74440 sample=../Audio/No Res Square 7/ajck 51-68 80-87-G6RN.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=525 loop_mode=loop_sustain loop_start=32690 loop_end=91943 sample=../Audio/No Res Square 7/ajck 51-68 88-95-M80Z.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=459 loop_mode=loop_sustain loop_start=57207 loop_end=82793 sample=../Audio/No Res Square 7/ajck 51-68 96-103-4TR9.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=663 end=222604 loop_mode=loop_sustain loop_start=50569 loop_end=99722 sample=../Audio/No Res Square 7/ajck 51-68 104-111-QNN2.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=659 end=221120 loop_mode=loop_sustain loop_start=35218 loop_end=118038 sample=../Audio/No Res Square 7/ajck 51-68 112-119-XAUM.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=523 end=220735 loop_mode=loop_sustain loop_start=72987 loop_end=96553 sample=../Audio/No Res Square 7/ajck 51-68 120-127-248M.wav
+<group>lokey=69 hikey=86 pitch_keycenter=78 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=514 end=142111 loop_mode=loop_sustain loop_start=68952 loop_end=105706 sample=../Audio/No Res Square 7/ajck 69-86 1-8-VBEA.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=584 loop_mode=loop_sustain loop_start=56437 loop_end=115729 sample=../Audio/No Res Square 7/ajck 69-86 9-16-MB6P.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=739 end=142292 loop_mode=loop_sustain loop_start=40509 loop_end=110749 sample=../Audio/No Res Square 7/ajck 69-86 17-24-OFUS.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=826 end=139991 loop_mode=loop_sustain loop_start=29628 loop_end=94621 sample=../Audio/No Res Square 7/ajck 69-86 25-32-3V65.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=718 end=157319 loop_mode=loop_sustain loop_start=29377 loop_end=104846 sample=../Audio/No Res Square 7/ajck 69-86 33-40-XP1K.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=495 loop_mode=loop_sustain loop_start=49357 loop_end=106494 sample=../Audio/No Res Square 7/ajck 69-86 41-48-NQSH.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=598 loop_mode=loop_sustain loop_start=57745 loop_end=114882 sample=../Audio/No Res Square 7/ajck 69-86 49-56-44WH.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=694 loop_mode=loop_sustain loop_start=36517 loop_end=109843 sample=../Audio/No Res Square 7/ajck 69-86 57-64-BAY6.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=693 end=210831 loop_mode=loop_sustain loop_start=83688 loop_end=108923 sample=../Audio/No Res Square 7/ajck 69-86 65-71-MH4P.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=466 end=215864 loop_mode=loop_sustain loop_start=52551 loop_end=100165 sample=../Audio/No Res Square 7/ajck 69-86 72-79-IO9P.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=633 end=212228 loop_mode=loop_sustain loop_start=40162 loop_end=65635 sample=../Audio/No Res Square 7/ajck 69-86 80-87-QXPM.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=748 end=212809 loop_mode=loop_sustain loop_start=46534 loop_end=71531 sample=../Audio/No Res Square 7/ajck 69-86 88-95-JC16.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=617 end=218370 loop_mode=loop_sustain loop_start=28286 loop_end=53759 sample=../Audio/No Res Square 7/ajck 69-86 96-103-4UFV.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=564 end=219705 loop_mode=loop_sustain loop_start=64220 loop_end=86598 sample=../Audio/No Res Square 7/ajck 69-86 104-111-P7VY.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=520 end=216976 loop_mode=loop_sustain loop_start=57924 loop_end=83159 sample=../Audio/No Res Square 7/ajck 69-86 112-119-PEX4.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=724 end=221800 loop_mode=loop_sustain loop_start=60397 loop_end=85632 sample=../Audio/No Res Square 7/ajck 69-86 120-127-3J5X.wav
+<group>lokey=87 hikey=99 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=768 end=141061 loop_mode=loop_sustain loop_start=27309 loop_end=48966 sample=../Audio/No Res Square 7/ajck 87-99 1-8-836X.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=690 loop_mode=loop_sustain loop_start=34312 loop_end=98871 sample=../Audio/No Res Square 7/ajck 87-99 9-16-GD7U.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=545 end=142137 loop_mode=loop_sustain loop_start=70686 loop_end=93709 sample=../Audio/No Res Square 7/ajck 87-99 17-24-ZA21.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=709 end=141197 loop_mode=loop_sustain loop_start=87777 loop_end=110600 sample=../Audio/No Res Square 7/ajck 87-99 25-32-ARFK.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=563 loop_mode=loop_sustain loop_start=50267 loop_end=114994 sample=../Audio/No Res Square 7/ajck 87-99 33-40-8T2A.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=641 end=142004 loop_mode=loop_sustain loop_start=89133 loop_end=112027 sample=../Audio/No Res Square 7/ajck 87-99 41-48-OO32.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=657 loop_mode=loop_sustain loop_start=65627 loop_end=112762 sample=../Audio/No Res Square 7/ajck 87-99 49-56-NNCN.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=584 loop_mode=loop_sustain loop_start=58169 loop_end=112206 sample=../Audio/No Res Square 7/ajck 87-99 57-64-D4DI.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=537 end=181004 loop_mode=loop_sustain loop_start=34514 loop_end=55640 sample=../Audio/No Res Square 7/ajck 87-99 65-71-NFLW.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=653 end=182008 loop_mode=loop_sustain loop_start=43977 loop_end=66113 sample=../Audio/No Res Square 7/ajck 87-99 72-79-98Y5.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=502 end=206349 loop_mode=loop_sustain loop_start=59960 loop_end=103223 sample=../Audio/No Res Square 7/ajck 87-99 80-87-SWN9.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=521 end=215473 loop_mode=loop_sustain loop_start=73375 loop_end=95006 sample=../Audio/No Res Square 7/ajck 87-99 88-95-K85X.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=677 end=210752 loop_mode=loop_sustain loop_start=39300 loop_end=79617 sample=../Audio/No Res Square 7/ajck 87-99 96-103-5AVN.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=418 end=214078 loop_mode=loop_sustain loop_start=42976 loop_end=80347 sample=../Audio/No Res Square 7/ajck 87-99 104-111-I9LD.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=690 end=211943 loop_mode=loop_sustain loop_start=60388 loop_end=103651 sample=../Audio/No Res Square 7/ajck 87-99 112-119-9CHU.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=534 end=213911 loop_mode=loop_sustain loop_start=63634 loop_end=106897 sample=../Audio/No Res Square 7/ajck 87-99 120-127-6U9J.wav
+<group> key=100 pitch_keytrack=1
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 offset=1068 loop_mode=loop_sustain loop_start=55880 loop_end=87334 sample=../Audio/No Res Square 7/ajck 100-100 1-8-IDBT.wav
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 offset=414 loop_mode=loop_sustain loop_start=77796 loop_end=95100 sample=../Audio/No Res Square 7/ajck 100-100 9-16-D3HD.wav
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 offset=594 loop_mode=loop_sustain loop_start=39046 loop_end=101016 sample=../Audio/No Res Square 7/ajck 100-100 17-24-R54K.wav
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 offset=509 end=133620 loop_mode=loop_sustain loop_start=25939 loop_end=82633 sample=../Audio/No Res Square 7/ajck 100-100 25-32-87EH.wav
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 offset=503 end=135165 loop_mode=loop_sustain loop_start=75038 loop_end=97884 sample=../Audio/No Res Square 7/ajck 100-100 33-40-YZSS.wav
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 offset=693 end=133719 loop_mode=loop_sustain loop_start=71120 loop_end=107530 sample=../Audio/No Res Square 7/ajck 100-100 41-48-QMNW.wav
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 offset=568 end=134382 loop_mode=loop_sustain loop_start=66329 loop_end=104007 sample=../Audio/No Res Square 7/ajck 100-100 49-56-29KC.wav
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 offset=695 loop_mode=loop_sustain loop_start=71287 loop_end=113575 sample=../Audio/No Res Square 7/ajck 100-100 57-64-KK0X.wav
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 offset=576 end=169470 loop_mode=loop_sustain loop_start=73300 loop_end=104164 sample=../Audio/No Res Square 7/ajck 100-100 65-71-R25V.wav
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 offset=484 loop_mode=loop_sustain loop_start=84233 loop_end=110554 sample=../Audio/No Res Square 7/ajck 100-100 72-79-J2UG.wav
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 offset=634 loop_mode=loop_sustain loop_start=30356 loop_end=54272 sample=../Audio/No Res Square 7/ajck 100-100 80-87-H1P4.wav
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 offset=594 end=207882 loop_mode=loop_sustain loop_start=46602 loop_end=96506 sample=../Audio/No Res Square 7/ajck 100-100 88-95-2H8X.wav
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 offset=629 end=214161 loop_mode=loop_sustain loop_start=74499 loop_end=109839 sample=../Audio/No Res Square 7/ajck 100-100 96-103-ODH0.wav
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 offset=541 end=213371 loop_mode=loop_sustain loop_start=42389 loop_end=105454 sample=../Audio/No Res Square 7/ajck 100-100 104-111-GZZZ.wav
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 offset=607 end=213004 loop_mode=loop_sustain loop_start=56047 loop_end=113567 sample=../Audio/No Res Square 7/ajck 100-100 112-119-NWP5.wav
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 offset=488 end=213980 loop_mode=loop_sustain loop_start=47143 loop_end=74867 sample=../Audio/No Res Square 7/ajck 100-100 120-127-C0Z7.wav
