@@ -8,8 +8,6 @@ A Construction kit made with a Roland Alpha Juno. Includes tons of saw, square a
 
  **Audio:** https://www.dropbox.com/sh/o0ds519ezs079ef/AACkx8F7Gwfy8ZSSkEZMf6p6a?dl=0
 
-**Please note:** the audio part of this library is provided via Bittorrent. You will need to download this using the included .torrent file.
-
 # Loading
 
 **Logic Sampler/EXS24**
