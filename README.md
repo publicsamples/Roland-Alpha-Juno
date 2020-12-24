@@ -24,13 +24,5 @@ A Construction kit made with a Roland Alpha Juno. Includes tons of saw, square a
 3. Open the folder with the .nki files
 4. Once the batch resave process has completed open a sample using the file browser
 
-# Help out
-  
-Hey you! Yes, you with the sampler! This project really needs your help! 
-
-- New formats. Currently only EXS24 & Kontakt are supported. 
--  New Patches. Have you made any new sounds with this construction kit. Share them with the world!
-
- If you'd like to get involved take a look at the issues page or get in [touch via email](mailto:modularsamples@gmail.com) to discuss the project.
-
-[Patreon](https://www.patreon.com/modularsamples) - [Buy an SSD](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-gumroad-product-id="modularsamples-drives"><a href="https://gumroad.com/l/modularsamples-drives">Loading...</a></div>
