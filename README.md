@@ -24,5 +24,8 @@ A Construction kit made with a Roland Alpha Juno. Includes tons of saw, square a
 3. Open the folder with the .nki files
 4. Once the batch resave process has completed open a sample using the file browser
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed" data-gumroad-product-id="modularsamples-drives"><a href="https://gumroad.com/l/modularsamples-drives">Loading...</a></div>
+# Disks
+
+[
+![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+](https://gum.co/modularsamples-drives)
