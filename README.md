@@ -6,7 +6,9 @@ A Construction kit made with a Roland Alpha Juno. Includes tons of saw, square a
 -   **Info:** [vintagesynth.com](http://www.vintagesynth.com/roland/ajuno1.php)
 
 
- **Audio:** https://www.dropbox.com/sh/o0ds519ezs079ef/AACkx8F7Gwfy8ZSSkEZMf6p6a?dl=0
+ **This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/o0ds519ezs079ef/AACkx8F7Gwfy8ZSSkEZMf6p6a?dl=0)
 
 # Loading
 
@@ -24,8 +26,10 @@ A Construction kit made with a Roland Alpha Juno. Includes tons of saw, square a
 3. Open the folder with the .nki files
 4. Once the batch resave process has completed open a sample using the file browser
 
-# Disks
+# Support this project
+
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

@@ -1,6 +1,6 @@
 // this file was generated from Square 6 100% res.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=127 pitch_keycenter=84 pitch_keytrack=1
+<group>lokey=0 hikey=127 pitch_keycenter=84 
 	<region> lovel=001 hivel=011 amp_velcurve_011=1 loop_mode=loop_sustain loop_start=13274 loop_end=24922 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 1-11-U1JU.wav
 	<region> lovel=012 hivel=021 amp_velcurve_021=1 loop_mode=loop_sustain loop_start=12748 loop_end=26209 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 12-21-YV1B.wav
 	<region> lovel=022 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=12528 loop_end=25323 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 22-32-3QHP.wav
@@ -12,4 +12,4 @@
 	<region> lovel=086 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=18614 loop_end=39825 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 86-95-PJTU.wav
 	<region> lovel=096 hivel=106 amp_velcurve_106=1 loop_mode=loop_sustain loop_start=31019 loop_end=72095 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 96-106-9HPS.wav
 	<region> lovel=107 hivel=116 amp_velcurve_116=1 loop_mode=loop_sustain loop_start=54302 loop_end=72483 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 107-116-SQ2M.wav
-	<region> lovel=117 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=27927 loop_end=71697 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 117-127-V216.wav
+	<region> lovel=117 hivel=127 amp_veltrack=0 loop_mode=loop_sustain loop_start=27927 loop_end=71697 sample=../Audio/saw alt hi res/(2016629 21432)/aj-sqr 84-84 117-127-V216.wav
