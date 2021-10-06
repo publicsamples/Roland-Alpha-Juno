@@ -6,10 +6,7 @@ A Construction kit made with a Roland Alpha Juno. Includes tons of saw, square a
 -   **Info:** [vintagesynth.com](http://www.vintagesynth.com/roland/ajuno1.php)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/aj.html)
 
-
- **This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/o0ds519ezs079ef/AACkx8F7Gwfy8ZSSkEZMf6p6a?dl=0)
+**[Download Audio](https://github.com/publicsamples/Roland-Alpha-Juno/releases/tag/1.0)**
 
 # Loading
 
